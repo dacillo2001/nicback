@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-w+nug(f!&ksgj)lj&dw-7l4(v=#qrlnl3w*mr)e5&n8)eiskch'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     "todo-django-api-e43a.onrender.com",
