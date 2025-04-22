@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "https://todo-django-api-e43a.onrender.com",
-    "http://localhost:8081/",
+    "http://localhost:8081",
 ]
 
 
@@ -58,7 +58,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8081/",
+    "http://localhost:8081",
     "https://todo-django-api-e43a.onrender.com", # Frontend URL if you're in development
     
 ]
