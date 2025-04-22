@@ -58,7 +58,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8081/",  # Frontend URL if you're in development
+    "http://localhost:8081/",
+    "https://todo-django-api-e43a.onrender.com", # Frontend URL if you're in development
     
 ]
 
