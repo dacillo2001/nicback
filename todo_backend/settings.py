@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "https://todo-django-api-e43a.onrender.com",
     "http://localhost:8081",
+    "127.0.0.1",
 ]
 
 
