@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-w+nug(f!&ksgj)lj&dw-7l4(v=#qrlnl3w*mr)e5&n8)eiskch
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://todo-django-api-e43a.onrender.com",
-    "http://localhost:8081",
+    "todo-django-api-e43a.onrender.com",
+    "localhost:8081",
     "127.0.0.1",
 ]
 
